@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arrays", "arrays\arrays.csproj", "{30CBC79B-0F7D-4CAC-973E-CD48D98059AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comments", "comments\comments.csproj", "{05584F04-7897-47AC-ACD8-DC328109005A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{30CBC79B-0F7D-4CAC-973E-CD48D98059AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30CBC79B-0F7D-4CAC-973E-CD48D98059AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30CBC79B-0F7D-4CAC-973E-CD48D98059AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05584F04-7897-47AC-ACD8-DC328109005A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05584F04-7897-47AC-ACD8-DC328109005A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05584F04-7897-47AC-ACD8-DC328109005A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05584F04-7897-47AC-ACD8-DC328109005A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
