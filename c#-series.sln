@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comments", "comments\commen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "renewal-functionality", "renewal-functionality\renewal-functionality.csproj", "{8A64226E-C75D-4C95-A44D-4A29CCC6319F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "processing-array-data", "processing-array-data\processing-array-data.csproj", "{5D80C5F2-AB4F-4667-A4D4-B664BAA7E211}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8A64226E-C75D-4C95-A44D-4A29CCC6319F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A64226E-C75D-4C95-A44D-4A29CCC6319F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A64226E-C75D-4C95-A44D-4A29CCC6319F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D80C5F2-AB4F-4667-A4D4-B664BAA7E211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D80C5F2-AB4F-4667-A4D4-B664BAA7E211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D80C5F2-AB4F-4667-A4D4-B664BAA7E211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D80C5F2-AB4F-4667-A4D4-B664BAA7E211}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
