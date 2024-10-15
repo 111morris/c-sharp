@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\arrays\bin\Debug\net8.0\arrays.exe
+C:\Users\hp\Desktop\C#\arrays\bin\Debug\net8.0\arrays.deps.json
+C:\Users\hp\Desktop\C#\arrays\bin\Debug\net8.0\arrays.runtimeconfig.json
+C:\Users\hp\Desktop\C#\arrays\bin\Debug\net8.0\arrays.dll
+C:\Users\hp\Desktop\C#\arrays\bin\Debug\net8.0\arrays.pdb
+C:\Users\hp\Desktop\C#\arrays\obj\Debug\net8.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\arrays\obj\Debug\net8.0\arrays.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\arrays\obj\Debug\net8.0\arrays.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\arrays\obj\Debug\net8.0\arrays.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\arrays\obj\Debug\net8.0\arrays.sourcelink.json
+C:\Users\hp\Desktop\C#\arrays\obj\Debug\net8.0\arrays.dll
+C:\Users\hp\Desktop\C#\arrays\obj\Debug\net8.0\refint\arrays.dll
+C:\Users\hp\Desktop\C#\arrays\obj\Debug\net8.0\arrays.pdb
+C:\Users\hp\Desktop\C#\arrays\obj\Debug\net8.0\arrays.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\arrays\obj\Debug\net8.0\ref\arrays.dll
