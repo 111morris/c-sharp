@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "processing-array-data", "pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach-if-elseif-else(array)", "foreach-if-elseif-else(array)\foreach-if-elseif-else(array).csproj", "{F95EE1A9-7DC5-445F-8751-C4D7A4485583}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boolean expressions", "boolean expressions\boolean expressions.csproj", "{D0FF3557-227D-4E7E-9283-4015FDFCE585}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F95EE1A9-7DC5-445F-8751-C4D7A4485583}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F95EE1A9-7DC5-445F-8751-C4D7A4485583}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F95EE1A9-7DC5-445F-8751-C4D7A4485583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0FF3557-227D-4E7E-9283-4015FDFCE585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FF3557-227D-4E7E-9283-4015FDFCE585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FF3557-227D-4E7E-9283-4015FDFCE585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FF3557-227D-4E7E-9283-4015FDFCE585}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

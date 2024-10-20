@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\c#-series\boolean expressions\bin\Debug\net8.0\boolean expressions.exe
+C:\Users\hp\Desktop\c#-series\boolean expressions\bin\Debug\net8.0\boolean expressions.deps.json
+C:\Users\hp\Desktop\c#-series\boolean expressions\bin\Debug\net8.0\boolean expressions.runtimeconfig.json
+C:\Users\hp\Desktop\c#-series\boolean expressions\bin\Debug\net8.0\boolean expressions.dll
+C:\Users\hp\Desktop\c#-series\boolean expressions\bin\Debug\net8.0\boolean expressions.pdb
+C:\Users\hp\Desktop\c#-series\boolean expressions\obj\Debug\net8.0\boolean expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\c#-series\boolean expressions\obj\Debug\net8.0\boolean expressions.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\c#-series\boolean expressions\obj\Debug\net8.0\boolean expressions.AssemblyInfo.cs
+C:\Users\hp\Desktop\c#-series\boolean expressions\obj\Debug\net8.0\boolean expressions.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c#-series\boolean expressions\obj\Debug\net8.0\boolean expressions.sourcelink.json
+C:\Users\hp\Desktop\c#-series\boolean expressions\obj\Debug\net8.0\boolean expressions.dll
+C:\Users\hp\Desktop\c#-series\boolean expressions\obj\Debug\net8.0\refint\boolean expressions.dll
+C:\Users\hp\Desktop\c#-series\boolean expressions\obj\Debug\net8.0\boolean expressions.pdb
+C:\Users\hp\Desktop\c#-series\boolean expressions\obj\Debug\net8.0\boolean expressions.genruntimeconfig.cache
+C:\Users\hp\Desktop\c#-series\boolean expressions\obj\Debug\net8.0\ref\boolean expressions.dll
