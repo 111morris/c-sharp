@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("renewal-functionality")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b76b3f53a5ffdaa5fea91f2db378c1ef5bf204d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+761bc8f43de6d81ddee1b8047e81c393072dea7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("renewal-functionality")]
 [assembly: System.Reflection.AssemblyTitleAttribute("renewal-functionality")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
