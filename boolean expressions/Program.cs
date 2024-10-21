@@ -1,5 +1,5 @@
 ﻿using System.Data;
-
+/*
 Console.WriteLine("a" == "a");
 Console.WriteLine("a" == "A");
 Console.WriteLine(1 == 2);
@@ -46,6 +46,19 @@ Console.WriteLine((flip == 0) ? "head" : "tails");
 
 Console.WriteLine((coin.Next(0, 2)) == 0 ? "heads" : "Tails");
 
-Console.WriteLine("\n");
-string permission = "Admin|Manager";
-int level = 55;
+Console.WriteLine("\n"); */
+
+// Code sample 1
+/* bool flag = true;
+int value;
+
+if (flag)
+{
+ value = 10;
+ Console.WriteLine($"Inside the code block: {value}");
+}
+
+Console.WriteLine($"Outside the code block: {value}"); */
+
+// Code sample 2
+Console.WriteLine("hello there my name is morris");
