@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itarate-for", "itarate-for\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fizzbuzz", "fizzbuzz\fizzbuzz.csproj", "{EDD13D18-A6A4-41E7-9A0E-D53B437C8265}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iterate-block", "iterate-block\iterate-block.csproj", "{5F88754D-6941-4DFB-A4EB-4D04C7E41035}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{EDD13D18-A6A4-41E7-9A0E-D53B437C8265}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDD13D18-A6A4-41E7-9A0E-D53B437C8265}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDD13D18-A6A4-41E7-9A0E-D53B437C8265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F88754D-6941-4DFB-A4EB-4D04C7E41035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F88754D-6941-4DFB-A4EB-4D04C7E41035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F88754D-6941-4DFB-A4EB-4D04C7E41035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F88754D-6941-4DFB-A4EB-4D04C7E41035}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

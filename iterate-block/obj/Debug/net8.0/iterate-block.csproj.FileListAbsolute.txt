@@ -1,0 +1,15 @@
+/media/morris/New Volume/Desktop/c#-series/iterate-block/bin/Debug/net8.0/iterate-block
+/media/morris/New Volume/Desktop/c#-series/iterate-block/bin/Debug/net8.0/iterate-block.deps.json
+/media/morris/New Volume/Desktop/c#-series/iterate-block/bin/Debug/net8.0/iterate-block.runtimeconfig.json
+/media/morris/New Volume/Desktop/c#-series/iterate-block/bin/Debug/net8.0/iterate-block.dll
+/media/morris/New Volume/Desktop/c#-series/iterate-block/bin/Debug/net8.0/iterate-block.pdb
+/media/morris/New Volume/Desktop/c#-series/iterate-block/obj/Debug/net8.0/iterate-block.GeneratedMSBuildEditorConfig.editorconfig
+/media/morris/New Volume/Desktop/c#-series/iterate-block/obj/Debug/net8.0/iterate-block.AssemblyInfoInputs.cache
+/media/morris/New Volume/Desktop/c#-series/iterate-block/obj/Debug/net8.0/iterate-block.AssemblyInfo.cs
+/media/morris/New Volume/Desktop/c#-series/iterate-block/obj/Debug/net8.0/iterate-block.csproj.CoreCompileInputs.cache
+/media/morris/New Volume/Desktop/c#-series/iterate-block/obj/Debug/net8.0/iterate-block.sourcelink.json
+/media/morris/New Volume/Desktop/c#-series/iterate-block/obj/Debug/net8.0/iterate-block.dll
+/media/morris/New Volume/Desktop/c#-series/iterate-block/obj/Debug/net8.0/refint/iterate-block.dll
+/media/morris/New Volume/Desktop/c#-series/iterate-block/obj/Debug/net8.0/iterate-block.pdb
+/media/morris/New Volume/Desktop/c#-series/iterate-block/obj/Debug/net8.0/iterate-block.genruntimeconfig.cache
+/media/morris/New Volume/Desktop/c#-series/iterate-block/obj/Debug/net8.0/ref/iterate-block.dll

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = itarate_for
-build_property.ProjectDir = D:\Desktop\c#-series\itarate-for\
+build_property.ProjectDir = /media/morris/New Volume/Desktop/c#-series/itarate-for/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
