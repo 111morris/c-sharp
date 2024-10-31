@@ -1,0 +1,15 @@
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/bin/Debug/net8.0/challenge
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/bin/Debug/net8.0/challenge.deps.json
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/bin/Debug/net8.0/challenge.runtimeconfig.json
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/bin/Debug/net8.0/challenge.dll
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/bin/Debug/net8.0/challenge.pdb
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/obj/Debug/net8.0/challenge.GeneratedMSBuildEditorConfig.editorconfig
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/obj/Debug/net8.0/challenge.AssemblyInfoInputs.cache
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/obj/Debug/net8.0/challenge.AssemblyInfo.cs
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/obj/Debug/net8.0/challenge.csproj.CoreCompileInputs.cache
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/obj/Debug/net8.0/challenge.sourcelink.json
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/obj/Debug/net8.0/challenge.dll
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/obj/Debug/net8.0/refint/challenge.dll
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/obj/Debug/net8.0/challenge.pdb
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/obj/Debug/net8.0/challenge.genruntimeconfig.cache
+/media/morris/New Volume/Desktop/C#/c#-series/challenge/obj/Debug/net8.0/ref/challenge.dll
