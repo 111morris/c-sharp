@@ -1,0 +1,15 @@
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/bin/Debug/net8.0/do-while-iteration
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/bin/Debug/net8.0/do-while-iteration.deps.json
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/bin/Debug/net8.0/do-while-iteration.runtimeconfig.json
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/bin/Debug/net8.0/do-while-iteration.dll
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/bin/Debug/net8.0/do-while-iteration.pdb
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/obj/Debug/net8.0/do-while-iteration.GeneratedMSBuildEditorConfig.editorconfig
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/obj/Debug/net8.0/do-while-iteration.AssemblyInfoInputs.cache
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/obj/Debug/net8.0/do-while-iteration.AssemblyInfo.cs
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/obj/Debug/net8.0/do-while-iteration.csproj.CoreCompileInputs.cache
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/obj/Debug/net8.0/do-while-iteration.sourcelink.json
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/obj/Debug/net8.0/do-while-iteration.dll
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/obj/Debug/net8.0/refint/do-while-iteration.dll
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/obj/Debug/net8.0/do-while-iteration.pdb
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/obj/Debug/net8.0/do-while-iteration.genruntimeconfig.cache
+/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/obj/Debug/net8.0/ref/do-while-iteration.dll

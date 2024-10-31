@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loop-logic", "loop-logic\lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "functions", "functions\functions.csproj", "{407F2A8F-9AB7-48C4-AE25-E1CA375D1914}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-iteration", "do-while-iteration\do-while-iteration.csproj", "{B63EA690-D6A5-452C-B37D-A093055FA381}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{407F2A8F-9AB7-48C4-AE25-E1CA375D1914}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{407F2A8F-9AB7-48C4-AE25-E1CA375D1914}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{407F2A8F-9AB7-48C4-AE25-E1CA375D1914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B63EA690-D6A5-452C-B37D-A093055FA381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63EA690-D6A5-452C-B37D-A093055FA381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63EA690-D6A5-452C-B37D-A093055FA381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63EA690-D6A5-452C-B37D-A093055FA381}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
