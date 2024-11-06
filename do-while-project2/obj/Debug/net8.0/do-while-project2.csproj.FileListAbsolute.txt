@@ -1,0 +1,15 @@
+/media/morris/part1/c-sharp/do-while-project2/bin/Debug/net8.0/do-while-project2
+/media/morris/part1/c-sharp/do-while-project2/bin/Debug/net8.0/do-while-project2.deps.json
+/media/morris/part1/c-sharp/do-while-project2/bin/Debug/net8.0/do-while-project2.runtimeconfig.json
+/media/morris/part1/c-sharp/do-while-project2/bin/Debug/net8.0/do-while-project2.dll
+/media/morris/part1/c-sharp/do-while-project2/bin/Debug/net8.0/do-while-project2.pdb
+/media/morris/part1/c-sharp/do-while-project2/obj/Debug/net8.0/do-while-project2.GeneratedMSBuildEditorConfig.editorconfig
+/media/morris/part1/c-sharp/do-while-project2/obj/Debug/net8.0/do-while-project2.AssemblyInfoInputs.cache
+/media/morris/part1/c-sharp/do-while-project2/obj/Debug/net8.0/do-while-project2.AssemblyInfo.cs
+/media/morris/part1/c-sharp/do-while-project2/obj/Debug/net8.0/do-while-project2.csproj.CoreCompileInputs.cache
+/media/morris/part1/c-sharp/do-while-project2/obj/Debug/net8.0/do-while-project2.sourcelink.json
+/media/morris/part1/c-sharp/do-while-project2/obj/Debug/net8.0/do-while-project2.dll
+/media/morris/part1/c-sharp/do-while-project2/obj/Debug/net8.0/refint/do-while-project2.dll
+/media/morris/part1/c-sharp/do-while-project2/obj/Debug/net8.0/do-while-project2.pdb
+/media/morris/part1/c-sharp/do-while-project2/obj/Debug/net8.0/do-while-project2.genruntimeconfig.cache
+/media/morris/part1/c-sharp/do-while-project2/obj/Debug/net8.0/ref/do-while-project2.dll
