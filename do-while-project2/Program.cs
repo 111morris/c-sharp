@@ -16,3 +16,4 @@ do
   Console.WriteLine($"The role that you entered, \"{input.ToLower()}\" is not valid. Enter your role name (Administrator, Manager, User)");
  }
 } while (true);
+
