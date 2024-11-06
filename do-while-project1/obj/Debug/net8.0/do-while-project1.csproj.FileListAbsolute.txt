@@ -1,0 +1,15 @@
+/media/morris/part1/c-sharp/do-while-project1/obj/Debug/net8.0/do-while-project1.GeneratedMSBuildEditorConfig.editorconfig
+/media/morris/part1/c-sharp/do-while-project1/obj/Debug/net8.0/do-while-project1.AssemblyInfoInputs.cache
+/media/morris/part1/c-sharp/do-while-project1/obj/Debug/net8.0/do-while-project1.AssemblyInfo.cs
+/media/morris/part1/c-sharp/do-while-project1/obj/Debug/net8.0/do-while-project1.csproj.CoreCompileInputs.cache
+/media/morris/part1/c-sharp/do-while-project1/obj/Debug/net8.0/do-while-project1.sourcelink.json
+/media/morris/part1/c-sharp/do-while-project1/bin/Debug/net8.0/do-while-project1
+/media/morris/part1/c-sharp/do-while-project1/bin/Debug/net8.0/do-while-project1.deps.json
+/media/morris/part1/c-sharp/do-while-project1/bin/Debug/net8.0/do-while-project1.runtimeconfig.json
+/media/morris/part1/c-sharp/do-while-project1/bin/Debug/net8.0/do-while-project1.dll
+/media/morris/part1/c-sharp/do-while-project1/bin/Debug/net8.0/do-while-project1.pdb
+/media/morris/part1/c-sharp/do-while-project1/obj/Debug/net8.0/do-while-project1.dll
+/media/morris/part1/c-sharp/do-while-project1/obj/Debug/net8.0/refint/do-while-project1.dll
+/media/morris/part1/c-sharp/do-while-project1/obj/Debug/net8.0/do-while-project1.pdb
+/media/morris/part1/c-sharp/do-while-project1/obj/Debug/net8.0/do-while-project1.genruntimeconfig.cache
+/media/morris/part1/c-sharp/do-while-project1/obj/Debug/net8.0/ref/do-while-project1.dll
