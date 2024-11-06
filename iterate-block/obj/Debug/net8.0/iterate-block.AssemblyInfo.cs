@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iterate-block")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dcc4b2f3fb5c45f4f6623e5c19bb6cf9ce5db05")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18c7544bb4db02111ea0444a7606865890915e22")]
 [assembly: System.Reflection.AssemblyProductAttribute("iterate-block")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iterate-block")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
