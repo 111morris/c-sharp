@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-project2", "do-whi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-project3", "do-while-project3\do-while-project3.csproj", "{2C11DE3D-6D05-4C0E-A840-62A3D841BD7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conditional-branching-looping", "conditional-branching-looping\conditional-branching-looping.csproj", "{1B2FB75E-2B59-4462-A5EA-2A1D02866833}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{2C11DE3D-6D05-4C0E-A840-62A3D841BD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C11DE3D-6D05-4C0E-A840-62A3D841BD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C11DE3D-6D05-4C0E-A840-62A3D841BD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2FB75E-2B59-4462-A5EA-2A1D02866833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2FB75E-2B59-4462-A5EA-2A1D02866833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2FB75E-2B59-4462-A5EA-2A1D02866833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2FB75E-2B59-4462-A5EA-2A1D02866833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
