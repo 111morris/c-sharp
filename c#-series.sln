@@ -37,17 +37,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-iteration", "do-wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "challenge", "challenge\challenge.csproj", "{2456AA21-2976-4FA8-9182-89CED25E19FB}"
 EndProject
-<<<<<<< HEAD
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-project1", "do-while-project1\do-while-project1.csproj", "{4210AA2B-13A3-4D39-AC7E-136611FE0891}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-project2", "do-while-project2\do-while-project2.csproj", "{97E71DB5-B88F-4B2F-A359-E34DB10AACD4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-project3", "do-while-project3\do-while-project3.csproj", "{2C11DE3D-6D05-4C0E-A840-62A3D841BD7D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conditional-branching-looping", "conditional-branching-looping\conditional-branching-looping.csproj", "{1B2FB75E-2B59-4462-A5EA-2A1D02866833}"
-=======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "challenge-project1", "challenge-project1\challenge-project1.csproj", "{4640E717-CCFE-4A53-A9B9-645404DC5516}"
->>>>>>> a0b1901 (message)
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,29 +113,10 @@ Global
 		{2456AA21-2976-4FA8-9182-89CED25E19FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2456AA21-2976-4FA8-9182-89CED25E19FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2456AA21-2976-4FA8-9182-89CED25E19FB}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
-		{4210AA2B-13A3-4D39-AC7E-136611FE0891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4210AA2B-13A3-4D39-AC7E-136611FE0891}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4210AA2B-13A3-4D39-AC7E-136611FE0891}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4210AA2B-13A3-4D39-AC7E-136611FE0891}.Release|Any CPU.Build.0 = Release|Any CPU
-		{97E71DB5-B88F-4B2F-A359-E34DB10AACD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{97E71DB5-B88F-4B2F-A359-E34DB10AACD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{97E71DB5-B88F-4B2F-A359-E34DB10AACD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{97E71DB5-B88F-4B2F-A359-E34DB10AACD4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2C11DE3D-6D05-4C0E-A840-62A3D841BD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C11DE3D-6D05-4C0E-A840-62A3D841BD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C11DE3D-6D05-4C0E-A840-62A3D841BD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2C11DE3D-6D05-4C0E-A840-62A3D841BD7D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1B2FB75E-2B59-4462-A5EA-2A1D02866833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B2FB75E-2B59-4462-A5EA-2A1D02866833}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B2FB75E-2B59-4462-A5EA-2A1D02866833}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B2FB75E-2B59-4462-A5EA-2A1D02866833}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
 		{4640E717-CCFE-4A53-A9B9-645404DC5516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4640E717-CCFE-4A53-A9B9-645404DC5516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4640E717-CCFE-4A53-A9B9-645404DC5516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4640E717-CCFE-4A53-A9B9-645404DC5516}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> a0b1901 (message)
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
