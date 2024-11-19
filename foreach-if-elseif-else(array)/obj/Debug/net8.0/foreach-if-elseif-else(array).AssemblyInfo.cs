@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("foreach-if-elseif-else(array)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d16a047890a26f2dccd2f928cfaae31ee1d3a35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+895a80bcea0d29e249f9d45946453b66062fe875")]
 [assembly: System.Reflection.AssemblyProductAttribute("foreach-if-elseif-else(array)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("foreach-if-elseif-else(array)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

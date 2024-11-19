@@ -15,13 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach-if-elseif-else(arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boolean expressions", "boolean expressions\boolean expressions.csproj", "{D0FF3557-227D-4E7E-9283-4015FDFCE585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{B8D9E1A5-8EC5-404B-9DAB-AA11EE142524}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testingMen", "testingMen\testingMen.csproj", "{81D1C3B2-424F-44C3-8091-A034B7DDB8E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch-case", "switch-case\switch-case.csproj", "{647AB20C-43B7-4BEC-8744-33FD4EA99862}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iterate-for", "iterate-for\iterate-for.csproj", "{B74F8CE9-8CCD-4F0C-8DCC-8A5D0546E168}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itarate-for", "itarate-for\itarate-for.csproj", "{59058DC1-9F88-4AC1-91A2-B5563ACC4BE6}"
 EndProject
@@ -31,7 +28,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iterate-block", "iterate-bl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loop-logic", "loop-logic\loop-logic.csproj", "{A2BFA801-F06C-4976-9ACC-FE3B084F3116}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "functions", "functions\functions.csproj", "{407F2A8F-9AB7-48C4-AE25-E1CA375D1914}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-iteration", "do-while-iteration\do-while-iteration.csproj", "{B63EA690-D6A5-452C-B37D-A093055FA381}"
 EndProject
