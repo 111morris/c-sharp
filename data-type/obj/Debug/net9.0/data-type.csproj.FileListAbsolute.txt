@@ -1,0 +1,15 @@
+/media/morris/hdd/Desktop/C#/c#-series/data-type/bin/Debug/net9.0/data-type
+/media/morris/hdd/Desktop/C#/c#-series/data-type/bin/Debug/net9.0/data-type.deps.json
+/media/morris/hdd/Desktop/C#/c#-series/data-type/bin/Debug/net9.0/data-type.runtimeconfig.json
+/media/morris/hdd/Desktop/C#/c#-series/data-type/bin/Debug/net9.0/data-type.dll
+/media/morris/hdd/Desktop/C#/c#-series/data-type/bin/Debug/net9.0/data-type.pdb
+/media/morris/hdd/Desktop/C#/c#-series/data-type/obj/Debug/net9.0/data-type.GeneratedMSBuildEditorConfig.editorconfig
+/media/morris/hdd/Desktop/C#/c#-series/data-type/obj/Debug/net9.0/data-type.AssemblyInfoInputs.cache
+/media/morris/hdd/Desktop/C#/c#-series/data-type/obj/Debug/net9.0/data-type.AssemblyInfo.cs
+/media/morris/hdd/Desktop/C#/c#-series/data-type/obj/Debug/net9.0/data-type.csproj.CoreCompileInputs.cache
+/media/morris/hdd/Desktop/C#/c#-series/data-type/obj/Debug/net9.0/data-type.sourcelink.json
+/media/morris/hdd/Desktop/C#/c#-series/data-type/obj/Debug/net9.0/data-type.dll
+/media/morris/hdd/Desktop/C#/c#-series/data-type/obj/Debug/net9.0/refint/data-type.dll
+/media/morris/hdd/Desktop/C#/c#-series/data-type/obj/Debug/net9.0/data-type.pdb
+/media/morris/hdd/Desktop/C#/c#-series/data-type/obj/Debug/net9.0/data-type.genruntimeconfig.cache
+/media/morris/hdd/Desktop/C#/c#-series/data-type/obj/Debug/net9.0/ref/data-type.dll
