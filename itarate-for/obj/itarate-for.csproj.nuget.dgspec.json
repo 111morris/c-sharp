@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\c#-series\\itarate-for\\itarate-for.csproj": {}
+    "/media/morris/hdd/Desktop/C#/c#-series/itarate-for/itarate-for.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\c#-series\\itarate-for\\itarate-for.csproj": {
+    "/media/morris/hdd/Desktop/C#/c#-series/itarate-for/itarate-for.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\c#-series\\itarate-for\\itarate-for.csproj",
+        "projectUniqueName": "/media/morris/hdd/Desktop/C#/c#-series/itarate-for/itarate-for.csproj",
         "projectName": "itarate-for",
-        "projectPath": "C:\\Users\\hp\\Desktop\\c#-series\\itarate-for\\itarate-for.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\c#-series\\itarate-for\\obj\\",
+        "projectPath": "/media/morris/hdd/Desktop/C#/c#-series/itarate-for/itarate-for.csproj",
+        "packagesPath": "/home/morris/.nuget/packages/",
+        "outputPath": "/media/morris/hdd/Desktop/C#/c#-series/itarate-for/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/morris/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -36,8 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

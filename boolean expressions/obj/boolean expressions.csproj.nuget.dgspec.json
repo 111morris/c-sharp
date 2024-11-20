@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\c#-series\\boolean expressions\\boolean expressions.csproj": {}
+    "/media/morris/hdd/Desktop/C#/c#-series/boolean expressions/boolean expressions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\c#-series\\boolean expressions\\boolean expressions.csproj": {
+    "/media/morris/hdd/Desktop/C#/c#-series/boolean expressions/boolean expressions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\c#-series\\boolean expressions\\boolean expressions.csproj",
+        "projectUniqueName": "/media/morris/hdd/Desktop/C#/c#-series/boolean expressions/boolean expressions.csproj",
         "projectName": "boolean expressions",
-        "projectPath": "C:\\Users\\hp\\Desktop\\c#-series\\boolean expressions\\boolean expressions.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\c#-series\\boolean expressions\\obj\\",
+        "projectPath": "/media/morris/hdd/Desktop/C#/c#-series/boolean expressions/boolean expressions.csproj",
+        "packagesPath": "/home/morris/.nuget/packages/",
+        "outputPath": "/media/morris/hdd/Desktop/C#/c#-series/boolean expressions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/morris/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -36,8 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

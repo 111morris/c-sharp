@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\c#-series\\fizzbuzz\\fizzbuzz.csproj": {}
+    "/media/morris/hdd/Desktop/C#/c#-series/fizzbuzz/fizzbuzz.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\c#-series\\fizzbuzz\\fizzbuzz.csproj": {
+    "/media/morris/hdd/Desktop/C#/c#-series/fizzbuzz/fizzbuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\c#-series\\fizzbuzz\\fizzbuzz.csproj",
+        "projectUniqueName": "/media/morris/hdd/Desktop/C#/c#-series/fizzbuzz/fizzbuzz.csproj",
         "projectName": "fizzbuzz",
-        "projectPath": "D:\\Desktop\\c#-series\\fizzbuzz\\fizzbuzz.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\c#-series\\fizzbuzz\\obj\\",
+        "projectPath": "/media/morris/hdd/Desktop/C#/c#-series/fizzbuzz/fizzbuzz.csproj",
+        "packagesPath": "/home/morris/.nuget/packages/",
+        "outputPath": "/media/morris/hdd/Desktop/C#/c#-series/fizzbuzz/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/morris/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -36,8 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

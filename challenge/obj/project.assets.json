@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/morris/New Volume/Desktop/C#/c#-series/challenge/challenge.csproj",
+      "projectUniqueName": "/media/morris/hdd/Desktop/C#/c#-series/challenge/challenge.csproj",
       "projectName": "challenge",
-      "projectPath": "/media/morris/New Volume/Desktop/C#/c#-series/challenge/challenge.csproj",
+      "projectPath": "/media/morris/hdd/Desktop/C#/c#-series/challenge/challenge.csproj",
       "packagesPath": "/home/morris/.nuget/packages/",
-      "outputPath": "/media/morris/New Volume/Desktop/C#/c#-series/challenge/obj/",
+      "outputPath": "/media/morris/hdd/Desktop/C#/c#-series/challenge/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/morris/.nuget/NuGet/NuGet.Config"
@@ -38,7 +38,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -59,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

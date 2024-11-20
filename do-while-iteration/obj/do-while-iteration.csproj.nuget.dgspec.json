@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/do-while-iteration.csproj": {}
+    "/media/morris/hdd/Desktop/C#/c#-series/do-while-iteration/do-while-iteration.csproj": {}
   },
   "projects": {
-    "/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/do-while-iteration.csproj": {
+    "/media/morris/hdd/Desktop/C#/c#-series/do-while-iteration/do-while-iteration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/do-while-iteration.csproj",
+        "projectUniqueName": "/media/morris/hdd/Desktop/C#/c#-series/do-while-iteration/do-while-iteration.csproj",
         "projectName": "do-while-iteration",
-        "projectPath": "/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/do-while-iteration.csproj",
+        "projectPath": "/media/morris/hdd/Desktop/C#/c#-series/do-while-iteration/do-while-iteration.csproj",
         "packagesPath": "/home/morris/.nuget/packages/",
-        "outputPath": "/media/morris/New Volume/Desktop/C#/c#-series/do-while-iteration/obj/",
+        "outputPath": "/media/morris/hdd/Desktop/C#/c#-series/do-while-iteration/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/morris/.nuget/NuGet/NuGet.Config"
@@ -32,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

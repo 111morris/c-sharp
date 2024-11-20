@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/media/morris/hdd/Desktop/C#/c#-series/foreach-if-elseif-else(array)/foreach-if-elseif-else(array).csproj": {}
+    "/media/morris/hdd/Desktop/C#/c#-series/branch-loop-structures/branch-loop-structures.csproj": {}
   },
   "projects": {
-    "/media/morris/hdd/Desktop/C#/c#-series/foreach-if-elseif-else(array)/foreach-if-elseif-else(array).csproj": {
+    "/media/morris/hdd/Desktop/C#/c#-series/branch-loop-structures/branch-loop-structures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/morris/hdd/Desktop/C#/c#-series/foreach-if-elseif-else(array)/foreach-if-elseif-else(array).csproj",
-        "projectName": "foreach-if-elseif-else(array)",
-        "projectPath": "/media/morris/hdd/Desktop/C#/c#-series/foreach-if-elseif-else(array)/foreach-if-elseif-else(array).csproj",
+        "projectUniqueName": "/media/morris/hdd/Desktop/C#/c#-series/branch-loop-structures/branch-loop-structures.csproj",
+        "projectName": "branch-loop-structures",
+        "projectPath": "/media/morris/hdd/Desktop/C#/c#-series/branch-loop-structures/branch-loop-structures.csproj",
         "packagesPath": "/home/morris/.nuget/packages/",
-        "outputPath": "/media/morris/hdd/Desktop/C#/c#-series/foreach-if-elseif-else(array)/obj/",
+        "outputPath": "/media/morris/hdd/Desktop/C#/c#-series/branch-loop-structures/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/morris/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
