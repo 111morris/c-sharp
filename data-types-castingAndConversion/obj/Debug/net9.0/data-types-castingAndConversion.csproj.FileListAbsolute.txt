@@ -1,0 +1,15 @@
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/bin/Debug/net9.0/data-types-castingAndConversion
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/bin/Debug/net9.0/data-types-castingAndConversion.deps.json
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/bin/Debug/net9.0/data-types-castingAndConversion.runtimeconfig.json
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/bin/Debug/net9.0/data-types-castingAndConversion.dll
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/bin/Debug/net9.0/data-types-castingAndConversion.pdb
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/obj/Debug/net9.0/data-types-castingAndConversion.GeneratedMSBuildEditorConfig.editorconfig
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/obj/Debug/net9.0/data-types-castingAndConversion.AssemblyInfoInputs.cache
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/obj/Debug/net9.0/data-types-castingAndConversion.AssemblyInfo.cs
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/obj/Debug/net9.0/data-types-castingAndConversion.csproj.CoreCompileInputs.cache
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/obj/Debug/net9.0/data-types-castingAndConversion.sourcelink.json
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/obj/Debug/net9.0/data-types-castingAndConversion.dll
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/obj/Debug/net9.0/refint/data-types-castingAndConversion.dll
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/obj/Debug/net9.0/data-types-castingAndConversion.pdb
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/obj/Debug/net9.0/data-types-castingAndConversion.genruntimeconfig.cache
+/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/obj/Debug/net9.0/ref/data-types-castingAndConversion.dll

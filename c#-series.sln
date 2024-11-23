@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "branch-loop-structures", "b
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data-type", "data-type\data-type.csproj", "{737CD6F0-85F7-4E58-921A-1AB8A95423A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data-types-castingAndConversion", "data-types-castingAndConversion\data-types-castingAndConversion.csproj", "{6B3FF8DC-1E2A-49C2-A637-B509EBCD584E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A1", "A1\A1.csproj", "{0F4D1EE0-93B7-4C69-B1B7-57ACA53EF49C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{737CD6F0-85F7-4E58-921A-1AB8A95423A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{737CD6F0-85F7-4E58-921A-1AB8A95423A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{737CD6F0-85F7-4E58-921A-1AB8A95423A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B3FF8DC-1E2A-49C2-A637-B509EBCD584E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3FF8DC-1E2A-49C2-A637-B509EBCD584E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3FF8DC-1E2A-49C2-A637-B509EBCD584E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3FF8DC-1E2A-49C2-A637-B509EBCD584E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4D1EE0-93B7-4C69-B1B7-57ACA53EF49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4D1EE0-93B7-4C69-B1B7-57ACA53EF49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4D1EE0-93B7-4C69-B1B7-57ACA53EF49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4D1EE0-93B7-4C69-B1B7-57ACA53EF49C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+/media/morris/hdd/Desktop/C#/c#-series/A1/bin/Debug/net9.0/A1
+/media/morris/hdd/Desktop/C#/c#-series/A1/bin/Debug/net9.0/A1.deps.json
+/media/morris/hdd/Desktop/C#/c#-series/A1/bin/Debug/net9.0/A1.runtimeconfig.json
+/media/morris/hdd/Desktop/C#/c#-series/A1/bin/Debug/net9.0/A1.dll
+/media/morris/hdd/Desktop/C#/c#-series/A1/bin/Debug/net9.0/A1.pdb
+/media/morris/hdd/Desktop/C#/c#-series/A1/obj/Debug/net9.0/A1.GeneratedMSBuildEditorConfig.editorconfig
+/media/morris/hdd/Desktop/C#/c#-series/A1/obj/Debug/net9.0/A1.AssemblyInfoInputs.cache
+/media/morris/hdd/Desktop/C#/c#-series/A1/obj/Debug/net9.0/A1.AssemblyInfo.cs
+/media/morris/hdd/Desktop/C#/c#-series/A1/obj/Debug/net9.0/A1.csproj.CoreCompileInputs.cache
+/media/morris/hdd/Desktop/C#/c#-series/A1/obj/Debug/net9.0/A1.sourcelink.json
+/media/morris/hdd/Desktop/C#/c#-series/A1/obj/Debug/net9.0/A1.dll
+/media/morris/hdd/Desktop/C#/c#-series/A1/obj/Debug/net9.0/refint/A1.dll
+/media/morris/hdd/Desktop/C#/c#-series/A1/obj/Debug/net9.0/A1.pdb
+/media/morris/hdd/Desktop/C#/c#-series/A1/obj/Debug/net9.0/A1.genruntimeconfig.cache
+/media/morris/hdd/Desktop/C#/c#-series/A1/obj/Debug/net9.0/ref/A1.dll
