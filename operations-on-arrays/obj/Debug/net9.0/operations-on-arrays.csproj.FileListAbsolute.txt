@@ -1,0 +1,15 @@
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/bin/Debug/net9.0/operations-on-arrays
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/bin/Debug/net9.0/operations-on-arrays.deps.json
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/bin/Debug/net9.0/operations-on-arrays.runtimeconfig.json
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/bin/Debug/net9.0/operations-on-arrays.dll
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/bin/Debug/net9.0/operations-on-arrays.pdb
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/obj/Debug/net9.0/operations-on-arrays.GeneratedMSBuildEditorConfig.editorconfig
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/obj/Debug/net9.0/operations-on-arrays.AssemblyInfoInputs.cache
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/obj/Debug/net9.0/operations-on-arrays.AssemblyInfo.cs
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/obj/Debug/net9.0/operations-on-arrays.csproj.CoreCompileInputs.cache
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/obj/Debug/net9.0/operations-on-arrays.sourcelink.json
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/obj/Debug/net9.0/operations-on-arrays.dll
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/obj/Debug/net9.0/refint/operations-on-arrays.dll
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/obj/Debug/net9.0/operations-on-arrays.pdb
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/obj/Debug/net9.0/operations-on-arrays.genruntimeconfig.cache
+/media/morris/hdd/Desktop/C#/c#-series/operations-on-arrays/obj/Debug/net9.0/ref/operations-on-arrays.dll

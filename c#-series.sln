@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data-types-castingAndConver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A1", "A1\A1.csproj", "{0F4D1EE0-93B7-4C69-B1B7-57ACA53EF49C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operations-on-arrays", "operations-on-arrays\operations-on-arrays.csproj", "{89317F61-911C-4517-A9BF-F7BE26444A7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{0F4D1EE0-93B7-4C69-B1B7-57ACA53EF49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F4D1EE0-93B7-4C69-B1B7-57ACA53EF49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F4D1EE0-93B7-4C69-B1B7-57ACA53EF49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89317F61-911C-4517-A9BF-F7BE26444A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89317F61-911C-4517-A9BF-F7BE26444A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89317F61-911C-4517-A9BF-F7BE26444A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89317F61-911C-4517-A9BF-F7BE26444A7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

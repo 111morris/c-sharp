@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("processing-array-data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5a3b1158ff309ceccfc4b3bb94b1b39fa33cd76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e79e45daa525b578cf89ebf4649f24def1e5890d")]
 [assembly: System.Reflection.AssemblyProductAttribute("processing-array-data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("processing-array-data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
