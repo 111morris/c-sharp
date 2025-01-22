@@ -1,0 +1,15 @@
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/bin/Debug/net9.0/operations-on-arrays-challenge
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/bin/Debug/net9.0/operations-on-arrays-challenge.deps.json
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/bin/Debug/net9.0/operations-on-arrays-challenge.runtimeconfig.json
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/bin/Debug/net9.0/operations-on-arrays-challenge.dll
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/bin/Debug/net9.0/operations-on-arrays-challenge.pdb
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/obj/Debug/net9.0/operations-on-arrays-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/obj/Debug/net9.0/operations-on-arrays-challenge.AssemblyInfoInputs.cache
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/obj/Debug/net9.0/operations-on-arrays-challenge.AssemblyInfo.cs
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/obj/Debug/net9.0/operations-on-arrays-challenge.csproj.CoreCompileInputs.cache
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/obj/Debug/net9.0/operations-on-arrays-challenge.sourcelink.json
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/obj/Debug/net9.0/operations-on-arrays-challenge.dll
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/obj/Debug/net9.0/refint/operations-on-arrays-challenge.dll
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/obj/Debug/net9.0/operations-on-arrays-challenge.pdb
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/obj/Debug/net9.0/operations-on-arrays-challenge.genruntimeconfig.cache
+/home/morris/Documents/programming_files/c-sharp/operations-on-arrays-challenge/obj/Debug/net9.0/ref/operations-on-arrays-challenge.dll

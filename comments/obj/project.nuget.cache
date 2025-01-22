@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2OVAb44dFcs=",
+  "dgSpecHash": "MNDlIeyRTc8=",
   "success": true,
-  "projectFilePath": "/media/morris/hdd/Desktop/C#/c#-series/comments/comments.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/morris/Documents/programming_files/c-sharp/comments/comments.csproj",
+  "expectedPackageFiles": [
+    "/home/morris/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/morris/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/morris/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.12/microsoft.netcore.app.host.linux-x64.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/morris/hdd/Desktop/C#/c#-series/A1/A1.csproj": {}
+    "/home/morris/Documents/programming_files/c-sharp/A1/A1.csproj": {}
   },
   "projects": {
-    "/media/morris/hdd/Desktop/C#/c#-series/A1/A1.csproj": {
+    "/home/morris/Documents/programming_files/c-sharp/A1/A1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/morris/hdd/Desktop/C#/c#-series/A1/A1.csproj",
+        "projectUniqueName": "/home/morris/Documents/programming_files/c-sharp/A1/A1.csproj",
         "projectName": "A1",
-        "projectPath": "/media/morris/hdd/Desktop/C#/c#-series/A1/A1.csproj",
+        "projectPath": "/home/morris/Documents/programming_files/c-sharp/A1/A1.csproj",
         "packagesPath": "/home/morris/.nuget/packages/",
-        "outputPath": "/media/morris/hdd/Desktop/C#/c#-series/A1/obj/",
+        "outputPath": "/home/morris/Documents/programming_files/c-sharp/A1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/morris/.nuget/NuGet/NuGet.Config"
@@ -20,6 +20,7 @@
           "net9.0"
         ],
         "sources": {
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -36,7 +37,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

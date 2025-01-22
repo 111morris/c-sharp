@@ -1,6 +1,12 @@
 ﻿using System.Net.Quic;
 using System.Security.AccessControl;
 // common operation across those projects are adding, sorting, deleting, combining, calculating, validating data and formatting output
+// arrays operations => adding, deleting, sorting, combining, calculating, validating data, and formating ouput
+
+/* helper methods to sort or reverse the data
+    clear and resize elements of an arrays
+    spliting arrays 
+    join arrays */
 
 // sort() and reverse() 
 string[] pallets = ["B14", "A11", "B12", "A13"];
@@ -85,3 +91,24 @@ foreach(var pallet in pallets){
 
 // StringSplitOptions() and join()
 
+Console.WriteLine("Split and Join");
+// convert string to an array of characters
+// join with ","
+// split 
+
+string value = "abc123";
+char[] valueArray = value.ToCharArray();
+
+Console.WriteLine(valueArray);
+
+Array.Reverse(valueArray);
+
+// string result = new string(valueArray);
+string result = string.Join(", ", valueArray);
+Console.WriteLine(result);
+
+string[] items = result.Split(',');
+foreach (string item in items)
+{
+ Console.WriteLine(item);
+}

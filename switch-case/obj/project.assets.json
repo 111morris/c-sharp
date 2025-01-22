@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/morris/hdd/Desktop/C#/c#-series/switch-case/switch-case.csproj",
+      "projectUniqueName": "/home/morris/Documents/programming_files/c-sharp/switch-case/switch-case.csproj",
       "projectName": "switch-case",
-      "projectPath": "/media/morris/hdd/Desktop/C#/c#-series/switch-case/switch-case.csproj",
+      "projectPath": "/home/morris/Documents/programming_files/c-sharp/switch-case/switch-case.csproj",
       "packagesPath": "/home/morris/.nuget/packages/",
-      "outputPath": "/media/morris/hdd/Desktop/C#/c#-series/switch-case/obj/",
+      "outputPath": "/home/morris/Documents/programming_files/c-sharp/switch-case/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/morris/.nuget/NuGet/NuGet.Config"
@@ -26,6 +26,7 @@
         "net8.0"
       ],
       "sources": {
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -42,7 +43,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -60,12 +61,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.12, 8.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[8.0.12, 8.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.12, 8.0.12]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

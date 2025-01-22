@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FJ/p0ceUTmw=",
+  "dgSpecHash": "rPCYBkEGxoA=",
   "success": true,
-  "projectFilePath": "/media/morris/hdd/Desktop/C#/c#-series/challenge-project1/challenge-project1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/morris/Documents/programming_files/c-sharp/challenge-project1/challenge-project1.csproj",
+  "expectedPackageFiles": [
+    "/home/morris/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/morris/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/morris/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.12/microsoft.netcore.app.host.linux-x64.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

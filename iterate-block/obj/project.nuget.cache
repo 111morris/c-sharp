@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9E5oyg+FyEQ=",
+  "dgSpecHash": "iAB0oKAlEg8=",
   "success": true,
-  "projectFilePath": "/media/morris/hdd/Desktop/C#/c#-series/iterate-block/iterate-block.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/morris/Documents/programming_files/c-sharp/iterate-block/iterate-block.csproj",
+  "expectedPackageFiles": [
+    "/home/morris/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/morris/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/morris/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.12/microsoft.netcore.app.host.linux-x64.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

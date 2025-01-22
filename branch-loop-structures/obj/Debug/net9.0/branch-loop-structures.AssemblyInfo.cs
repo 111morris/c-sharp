@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("branch-loop-structures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e79e45daa525b578cf89ebf4649f24def1e5890d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d260801ede6415a3fc41ed6ae35fe3bce1ec7109")]
 [assembly: System.Reflection.AssemblyProductAttribute("branch-loop-structures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("branch-loop-structures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

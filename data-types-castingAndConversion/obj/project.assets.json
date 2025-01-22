@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/data-types-castingAndConversion.csproj",
+      "projectUniqueName": "/home/morris/Documents/programming_files/c-sharp/data-types-castingAndConversion/data-types-castingAndConversion.csproj",
       "projectName": "data-types-castingAndConversion",
-      "projectPath": "/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/data-types-castingAndConversion.csproj",
+      "projectPath": "/home/morris/Documents/programming_files/c-sharp/data-types-castingAndConversion/data-types-castingAndConversion.csproj",
       "packagesPath": "/home/morris/.nuget/packages/",
-      "outputPath": "/media/morris/hdd/Desktop/C#/c#-series/data-types-castingAndConversion/obj/",
+      "outputPath": "/home/morris/Documents/programming_files/c-sharp/data-types-castingAndConversion/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/morris/.nuget/NuGet/NuGet.Config"
@@ -26,6 +26,7 @@
         "net9.0"
       ],
       "sources": {
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -42,7 +43,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -65,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
