@@ -41,9 +41,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A1", "A1\A1.csproj", "{0F4D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operations-on-arrays", "operations-on-arrays\operations-on-arrays.csproj", "{89317F61-911C-4517-A9BF-F7BE26444A7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operations-on-arrays-testing", "operations-on-arrays-testing\operations-on-arrays-testing.csproj", "{DCE45B93-42FA-403A-AB68-8C182964907D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operations-on-arrays-challenge", "operations-on-arrays-challenge\operations-on-arrays-challenge.csproj", "{A1CF5014-A296-49BC-A620-A673AFFEC345}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alphanumeric-presentation", "alphanumeric-presentation\alphanumeric-presentation.csproj", "{342F2002-A9AD-4800-82C5-BF4A1816DB1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +135,10 @@ Global
 		{A1CF5014-A296-49BC-A620-A673AFFEC345}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1CF5014-A296-49BC-A620-A673AFFEC345}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1CF5014-A296-49BC-A620-A673AFFEC345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342F2002-A9AD-4800-82C5-BF4A1816DB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342F2002-A9AD-4800-82C5-BF4A1816DB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342F2002-A9AD-4800-82C5-BF4A1816DB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342F2002-A9AD-4800-82C5-BF4A1816DB1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

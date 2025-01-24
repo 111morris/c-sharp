@@ -1,0 +1,15 @@
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/bin/Debug/net9.0/alphanumeric-presentation
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/bin/Debug/net9.0/alphanumeric-presentation.deps.json
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/bin/Debug/net9.0/alphanumeric-presentation.runtimeconfig.json
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/bin/Debug/net9.0/alphanumeric-presentation.dll
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/bin/Debug/net9.0/alphanumeric-presentation.pdb
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/obj/Debug/net9.0/alphanumeric-presentation.GeneratedMSBuildEditorConfig.editorconfig
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/obj/Debug/net9.0/alphanumeric-presentation.AssemblyInfoInputs.cache
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/obj/Debug/net9.0/alphanumeric-presentation.AssemblyInfo.cs
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/obj/Debug/net9.0/alphanumeric-presentation.csproj.CoreCompileInputs.cache
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/obj/Debug/net9.0/alphanumeric-presentation.sourcelink.json
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/obj/Debug/net9.0/alphanumeric-presentation.dll
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/obj/Debug/net9.0/refint/alphanumeric-presentation.dll
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/obj/Debug/net9.0/alphanumeric-presentation.pdb
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/obj/Debug/net9.0/alphanumeric-presentation.genruntimeconfig.cache
+/home/morris/Documents/programming_files/c-sharp/alphanumeric-presentation/obj/Debug/net9.0/ref/alphanumeric-presentation.dll
